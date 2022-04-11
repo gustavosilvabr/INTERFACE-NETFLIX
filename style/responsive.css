@@ -7,7 +7,7 @@
     }
     main .filme-principal{
         background-size: cover;
-        background:linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.0)), url(/img/cards/back-peak.jpg);
+        background:linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.0)), url(img/cards/back-peak.jpg);
         background-repeat: no-repeat;
         
         height: 400px;
