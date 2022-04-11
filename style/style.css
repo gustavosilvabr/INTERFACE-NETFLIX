@@ -52,7 +52,7 @@ main .filme-principal {
   align-items: flex-start;
   position: relative;
   background-size: cover;
-  background:linear-gradient(rgba(0,0,0,0.80),rgba(0,0,0,0.0)), url(/img/cards/peaky-blinders-7h-1280x1024.jpg);
+  background:linear-gradient(rgba(0,0,0,0.80),rgba(0,0,0,0.0)),url(/img/cards/peaky-blinders-7h-1280x1024.jpg);
   
   width: 100%;
   height: 600px;
